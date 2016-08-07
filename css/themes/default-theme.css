@@ -1,0 +1,146 @@
+.scrollToTop{
+	background-color: #DF0126;
+}
+.scrollToTop:hover,.scrollToTop:focus{
+  background-color: #fff;
+  color: #DF0126;
+  border: 1px solid #DF0126;
+}
+.navbar-brand > span {
+  color: #DF0126;
+}
+
+.navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:hover, .navbar-default .navbar-nav > .active > a:focus { 
+  color: #DF0126;
+}
+.navbar-default .navbar-nav > li > a:hover{
+  color: #DF0126;
+}
+.slider_btn:hover,.slider_btn:focus{
+	border-color:#DF0126;
+	color: #DF0126;
+}
+.slides-navigation a::before,
+.slides-navigation a::after,
+.slides-navigation .icon-wrap::before,
+.slides-navigation .icon-wrap::after {
+	background: #DF0126;
+}
+.slides-pagination a {
+  border: 2px solid #DF0126;
+}
+.heading h2 {
+  border-bottom: 11px solid ##DF0126;
+}
+.panel-title a:hover{
+	color: #DF0126;		
+}
+.panel-title a span{
+  color: ##DF0126;		
+}
+.service_icon{
+	background-color: ##DF0126;
+}
+
+.single_service:hover .service_icon{	
+	color: #DF0126;
+	border: 2px solid #DF0126;
+	background-color: #fff;
+}
+.single_service:hover .service_title{
+	color: #DF0126;
+}
+.single_service > .service_title:after {
+  background-color: #DF0126;
+}
+.heading h3 {
+  border-bottom: 5px solid #DF0126;
+}
+.fa-2x {
+  color: #DF0126;
+}
+.single_team span {
+  color: #DF0126;
+}
+.team_social a:hover,.team_social a:focus{
+	background-color: #DF0126;
+}
+.slick-prev, .slick-next {
+  background-color: #DF0126;
+}
+.single_price .price {
+  background-color: #DF0126; 
+}
+.price_btn {
+  background-color: #DF0126;
+  border: 1px solid #DF0126;
+}
+.price_btn:hover{
+	color: #DF0126 !important;
+}
+.business_price {
+  background-color: #DF0126 !important;
+}
+.business_price .price_btn{	
+	color: #DF0126 !important;
+}
+.post_commentbox a:hover, .post_commentbox span:hover{
+	color: #DF0126;
+}
+.read_more{
+	color: #DF0126;	
+}
+.read_more:hover,.read_more:focus{
+	border-bottom: 2px solid #DF0126;
+}
+.testi_media .media-body span {
+  color: #DF0126;
+}
+.testimonial_slider .slick-dots li.slick-active button{
+  background: none repeat scroll 0 0 #DF0126;  
+}
+.submit_btn {
+  background-color: #DF0126;
+}
+.submit_btn:hover{
+	color: #DF0126;
+	border-color: #DF0126;
+}
+.form-control:focus {
+  border-color: #DF0126;
+}
+.wagwep-container ul#portfolio-filter a:hover{
+  background-color: #DF0126;
+}
+.wagwep-container ul#portfolio-filter li.current a {
+  background:#DF0126;  
+}
+.single_contact_feaured > i {
+  color: #DF0126;
+}
+.subscr_btn {
+  background-color: #DF0126;
+}
+.footer_left > p a {
+  /*JTcolor: #DF0126;*/
+  color: #FFF;
+  /*JTfont-weight: bold; */
+  text-decoration: none;/*JT*/
+  letter-spacing: 1px;/*JT*/
+}
+
+/*JT Surcharge de bootstrap.min.css*/
+.footer_left > p a:hover {
+  color: #DF0126;
+}
+.social_nav li a:hover{
+  color: #DF0126;
+  border-color: #DF0126; 
+}
+.panel-default .in{
+  border-color: #DF0126;
+  border-left: 5px solid #DF0126;
+}
+.about_slider .slick-dots li.slick-active button:before {
+  color: #DF0126;
+}
