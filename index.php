@@ -354,5 +354,8 @@
 
     <!-- Custom js-->
     <script src="js/custom.js"></script>
+	
+	<!-- Analytics-->
+	<?php include_once("analyticstracking.php") ?>
   </body>
 </html>
